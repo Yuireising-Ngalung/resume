@@ -1,4 +1,4 @@
 # Resume
 
-Author: Yuireising Ngalung
+Author: Yuireising Ngalung  <br>
 Description: Personal Resume
