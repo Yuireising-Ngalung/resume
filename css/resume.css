@@ -117,4 +117,8 @@ footer{
     padding: 1em;
 }
 
+footer p{
+    letter-spacing: 5px;
+}
+
 
