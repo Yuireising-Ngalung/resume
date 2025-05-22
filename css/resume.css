@@ -34,7 +34,7 @@ section{
     color: white;
 
     h2{
-        color: white;
+        color:var(--color-white);
     }
 }
 
@@ -46,11 +46,10 @@ h1{
     border: 2px solid var(--color-dark-blue);
     letter-spacing: 5px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-shadow: 2px 2px 2px var(--color-dark-blue);
 }
 
 h2{
-    color: var(--color-medium-blue);
+    color: var(--color-dark-blue);
     margin-bottom: 0.5em;
 }
 
@@ -69,7 +68,7 @@ h2{
 }
 
 .info>p>b{
-    color: var(--color-light-blue);
+    color: var(--color-medium-blue);
     font-weight: 900;
 }
 
